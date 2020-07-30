@@ -82,16 +82,3 @@ load(){
   }
 }
 
-/**
- * Codigo antes de criar tarefas  automaticamente
- * 
- * this.todos.push(new Todo(1, 'Estudar contraBaixo', false));
-    this.todos.push(new Todo(2, 'Estudar English', false));
-    this.todos.push(new Todo(3, 'Estudar Angular', true));  
- */
-
- /**
-  * inicar pacotes/ se for preciso
-  * "node_modules/animate.css/animate.min.css",
-    "node_modules/font-awesome/css/font-awesome.css ",
-  */
